@@ -15,3 +15,9 @@ def print_factors(x)
 
 	print_factors(num)
 
+
+	if else x= 65
+	then print(all numbers are same)
+
+	the new line added
+
